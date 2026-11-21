@@ -1,5 +1,5 @@
 .venv/
+data/
+up.log
 __pycache__/
-.pytest_cache/
-.streamlit/
-artifacts/*.joblib
+*.pyc
